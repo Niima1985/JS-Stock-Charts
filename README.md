@@ -3,7 +3,9 @@
 This is an activity for FSWD Lesson 5.7.5- 3rd Party Libraries & ChartJS.
 
 Please refer to the Activity Guide in Canvas for directions.
+
 Acceptance Criteria
+
 When viewing index.js, function main() must exist and either:
 Make a fetch request to the TwelveData API.
 Include data from mockData.js.
